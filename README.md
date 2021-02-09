@@ -13,8 +13,8 @@ Entre as principais funções do Dashboard temos:
 - Área plantada por grão
 - Previsões de produtividade por Deep Learning e Séries Temporais
 
-<img scr="https://github.com/matheusduzzi/safra_historica/blob/master/Capturar.PNG" align="center">
-<img scr="https://github.com/matheusduzzi/safra_historica/blob/master/Capturar1.PNG" align="center">
+<img src="https://github.com/matheusduzzi/safra_historica/blob/master/Capturar.PNG" align="center">
+<img src="https://github.com/matheusduzzi/safra_historica/blob/master/Capturar1.PNG" align="center">
 
 A fonte dos dados é https://www.conab.gov.br/info-agro/safras/serie-historica-das-safras
 e o link da aplicação é https://matheusduzzi.shinyapps.io/Safrashist/
